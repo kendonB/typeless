@@ -1,0 +1,89 @@
+
+Name: Insert dplyr::
+Description: Inserts `dplyr::` at the cursor position.
+Binding: insertDplyrAddin
+Interactive: false
+
+Name: Insert tidyr::
+Description: Inserts `tidyr::` at the cursor position.
+Binding: insertTidyrAddin
+Interactive: false
+
+Name: Insert purrr::
+Description: Inserts `purrr::` at the cursor position.
+Binding: insertPurrrAddin
+Interactive: false
+
+Name: Insert mutate
+Description: Inserts `mutate(` at the cursor position.
+Binding: insertMutateAddin
+Interactive: false
+
+Name: Insert select
+Description: Inserts `select(` at the cursor position.
+Binding: insertSelectAddin
+Interactive: false
+
+Name: Insert filter
+Description: Inserts `filter(` at the cursor position.
+Binding: insertFilterAddin
+Interactive: false
+
+Name: Insert left_join
+Description: Inserts `left_join(` at the cursor position.
+Binding: insertLeftJoinAddin
+Interactive: false
+
+Name: Insert as_tibble
+Description: Inserts `as_tibble(` at the cursor position.
+Binding: insertAsTibbleAddin
+Interactive: false
+
+Name: Insert nest
+Description: Inserts `nest(` at the cursor position.
+Binding: insertNestAddin
+Interactive: false
+
+Name: Insert unnest
+Description: Inserts `unnest(` at the cursor position.
+Binding: insertUnnestAddin
+Interactive: false
+
+Name: Insert spread
+Description: Inserts `spread(` at the cursor position.
+Binding: insertSpreadAddin
+Interactive: false
+
+Name: Insert gather
+Description: Inserts `gather(` at the cursor position.
+Binding: insertGatherAddin
+Interactive: false
+
+Name: Insert map
+Description: Inserts `map(` at the cursor position.
+Binding: insertMapAddin
+Interactive: false
+
+
+Name: Insert lubridate
+Description: Inserts `lubridate::` at the cursor position.
+Binding: insertLubridateAddin
+Interactive: false
+
+Name: Insert stringr
+Description: Inserts `stringr::` at the cursor position.
+Binding: insertStringrAddin
+Interactive: false
+
+
+Name: Insert group_by
+Description: Inserts `group_by(` at the cursor position.
+Binding: insertGroupByAddin
+Interactive: false
+
+Name: Insert summarize
+Description: Inserts `summarize(` at the cursor position.
+Binding: insertSummarizeAddin
+Interactive: false
+
+
